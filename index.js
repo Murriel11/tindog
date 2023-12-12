@@ -15,13 +15,13 @@ document.getElementById("myDown").onclick = function () {
 };
 
 document.getElementById("signUp").onclick = function () {
-    location.href = "signup/signUp.html";
+    location.href = "signup/signup.html";
 };
 
 document.getElementById("signIn").onclick = function () {
-    location.href = "signup/signUp.html";
+    location.href = "signup/signup.html";
 };
 
 document.getElementById("signUpp").onclick = function () {
-    location.href = "signup/signUp.html";
+    location.href = "signup/sigup.html";
 };
